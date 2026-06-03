@@ -1,1 +1,11 @@
 # SSPIPES-FOR-WINDOWS-10-11
+
+TO USE YOU WILL NEED EITHER WINDOWS 10 OR WINDOWS 11 (IDK IF WINDOWS VISTA - WINDOWS 8.1 WORKS)
+
+1. Download the File
+2. Extract it
+3. Put it into System32 (IMPORTANT: CLICK ON SKIP WHEN IT ASKS IF YOU WANT TO REPLACE THE FILE)
+4. Reopen Screensaver Panel
+5. Select it
+6. Preview / Save
+7. Done
